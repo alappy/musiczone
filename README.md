@@ -11,11 +11,11 @@
 
 
 - FOR STRING - 
-- [@genStr_Bot](https://t.me/genstr_Bot)
+- [CONNECT](https://t.me/alappyyy)
   
 ### Special thanks :- 
 
-- [ജിന്ന്](https://t.me/JINN_SULTHAN)
+- [alappyyy](https://t.me/alappyyy)
 
  
 ## commands (with ! Mark)
