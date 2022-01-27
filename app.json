@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/sakhaavvaavaj93/alonelover",
+    "repository": "https://github.com/alappy/musiczone",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
